@@ -1,4 +1,4 @@
-Atividades do Desenvolvedor
+Atividades do Desenvolvedor Adrian
 
 Cadastro de usuários;
 Definição da funcionalidade de registro de novos usuários;
