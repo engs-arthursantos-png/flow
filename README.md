@@ -17,4 +17,4 @@ Criação de playlists
 Favoritar músicas
 Metodologia
 
-O projeto foi organizado utilizando Scrum, com Product Owner, Scrum Master e um único desenvolvedor responsável por todas as tarefas.
+O projeto foi organizado utilizando Scrum, com Product Owner (Arthur), Scrum Master (Matheus) e um único desenvolvedor (Adrian) responsável por todas as tarefas.
