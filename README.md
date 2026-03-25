@@ -9,6 +9,12 @@ Permitir que usuários pesquisem músicas, reproduzam faixas e organizem playlis
 Funcionalidades principais
 Cadastro de usuários
 Login de usuários
+Cadastro de músicas
+Cadastro de artistas
+Sistema de pesquisa de músicas
 Reprodução de músicas
 Criação de playlists
 Favoritar músicas
+Metodologia
+
+O projeto foi organizado utilizando Scrum, com divisão de funções entre Product Owner, Scrum Master e Desenvolvedores.
