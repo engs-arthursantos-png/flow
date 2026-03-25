@@ -24,11 +24,11 @@ Controle de volume → Dev Adrian
 
 Tarefas concluídas
 
-Definir nome do aplicativo
-Criar descrição do projeto
-Levantar requisitos principais
-Criar documentação README
-Organizar backlog no GitHub
+Definir nome do aplicativo  → PO Arthur
+Criar descrição do projeto → S.M Matheus
+Levantar requisitos principais → PO Arthur
+Criar documentação README → Dev Adrian
+Organizar backlog no GitHub → PO Arthur
 
 
 Prazo
