@@ -3,23 +3,23 @@ Sprint 1 - BeatFlow
 
 Tarefas em andamento
 
-Reprodução de músicas → Dev
-Pausar reprodução → Dev
-Criar playlists → Dev
-Editar playlists → Dev
-Favoritar músicas → Dev
+Reprodução de músicas → Dev Adrian
+Pausar reprodução → Dev Adrian
+Criar playlists → Dev Adrian
+Editar playlists → Dev Adrian
+Favoritar músicas → Dev Adrian
 
 
 Tarefas a fazer
 
-Cadastro de usuários → Dev
-Login de usuários → Dev
-Cadastro de músicas → Dev
-Cadastro de artistas → Dev
-Sistema de pesquisa de músicas → Dev
-Próxima música → Dev
-Música anterior → Dev
-Controle de volume → Dev
+Cadastro de usuários → Dev Adrian
+Login de usuários → Dev Adrian
+Cadastro de músicas → Dev Adrian
+Cadastro de artistas → Dev Adrian
+Sistema de pesquisa de músicas → Dev Adrian
+Próxima música → Dev Adrian
+Música anterior → Dev Adrian
+Controle de volume → Dev Adrian
 
 
 Tarefas concluídas
