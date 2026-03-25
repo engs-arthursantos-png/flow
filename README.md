@@ -17,4 +17,4 @@ Criação de playlists
 Favoritar músicas
 Metodologia
 
-O projeto foi organizado utilizando Scrum, com divisão de funções entre Product Owner, Scrum Master e Desenvolvedores.
+O projeto foi organizado utilizando Scrum, com Product Owner, Scrum Master e um único desenvolvedor responsável por todas as tarefas.
