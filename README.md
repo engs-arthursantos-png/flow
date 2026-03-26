@@ -2,11 +2,13 @@ Flow
 
 Aplicativo de música desenvolvido para planejamento de projeto utilizando metodologia Scrum.
 
-Objetivo
+Objetivo:
 
 Permitir que usuários pesquisem músicas, reproduzam faixas e organizem playlists.
 
-Funcionalidades principais
+
+Funcionalidades principais:
+
 Cadastro de usuários
 Login de usuários
 Cadastro de músicas
