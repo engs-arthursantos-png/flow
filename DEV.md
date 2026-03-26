@@ -1,5 +1,8 @@
 Atividades do Desenvolvedor Adrian
 
+O softwere será totalmente desenvolvido através das linguagens HTML, SQL, CSS, PHP E JAVASCRIPT.
+
+
 Cadastro de usuários:
 um sistema para usuarios se cadastrarem;
 
