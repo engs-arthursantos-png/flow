@@ -1,6 +1,7 @@
 Atividades do Desenvolvedor Adrian
 
-Cadastro de usuários;
+Cadastro de usuários:
+um sistema para usuarios se cadastrarem;
 Definição da funcionalidade de registro de novos usuários;
 Login de usuários;
 Definição da autenticação de acesso;
